@@ -1,0 +1,38 @@
+
+
+/* Soft pastel background */
+.reveal {
+  background: linear-gradient(to right, #ffdde1, #f8cdda); /* Light pink gradient */
+  color: #5a5a5a; /* Gentle dark gray text */
+}
+
+/* Title styling */
+.reveal h1, .reveal h2, .reveal h3 {
+  color: #ff758f; /* Soft coral pink */
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+}
+
+/* Paragraph text */
+.reveal p {
+  font-size: 1.0em;
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+  color: #6d6875; /* Muted purple-gray */
+}
+
+/* Bullet points */
+.reveal ul {
+  font-size: 1.0em;
+  color: #6c757d; /* Soft neutral */
+}
+
+/* Adjust slide navigation arrows */
+.reveal .controls {
+  color: #ff6392;
+}
+
+/* Override white background */
+.reveal .slide-background {
+  background: linear-gradient(to right, #ffdde1, #f8cdda) !important;
+}

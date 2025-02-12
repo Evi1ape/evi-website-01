@@ -2,11 +2,16 @@
 title: "about me"
 ---
 
-This is a Quarto website.
+About Me & Why I’m Conducting This Survey
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Evanthia, and I am currently pursuing an MSc in Experiential Digital Marketing Communications. As someone passionate about understanding digital consumer behavior and marketing trends, I am conducting this survey to explore how people interact with digital ads, discover products online, and make purchasing decisions.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Your feedback will provide valuable insights into the role of social media, advertising, and brand trust in shaping consumer choices. The results will help analyze which marketing strategies are the most effective and how brands can enhance their online presence.
 
-## Nemo enim ipsam
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Your time and honest responses are greatly appreciated—thank you for participating! 😊
+
+![Alt text](images/quarto.jpg)
+
+
+
+

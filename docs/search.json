@@ -1,45 +1,80 @@
 [
   {
-    "objectID": "tab-presentation/presentation-index.html",
-    "href": "tab-presentation/presentation-index.html",
-    "title": "Examples of presentations",
+    "objectID": "tab-iframe/iframe-index.html",
+    "href": "tab-iframe/iframe-index.html",
+    "title": "Quarto iFrame example",
     "section": "",
-    "text": "Here we can add links to presentations.\nFor now you can access the presentation by adjusting the URL below with your details\nhttps://YOUR-GITHUB-ACCOUNT.github.io/NAME-OF-YOUR-GIT-REPO/tab-presentation/presentation1/presentation-example.html\nSimply change my capitalized text for your: i) your github username\nii) the name of your github repo then copy the URL and paste it to visit the webpage.\nThe adjusted URL above should take you to an example of a simple Quarto presentation."
+    "text": "&lt;iframe src=“Φόρτωση…"
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#introduction-why-this-survey",
+    "href": "tab-presentation/presentation-index.html#introduction-why-this-survey",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "Introduction – Why This Survey?",
+    "text": "Introduction – Why This Survey?\n📌 Understanding digital consumer behavior\nThe way people discover and purchase products has evolved. Social media and digital ads play a crucial role in shaping decisions. This survey helps analyze trends to improve marketing strategies."
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#the-role-of-social-media-in-product-discovery",
+    "href": "tab-presentation/presentation-index.html#the-role-of-social-media-in-product-discovery",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "The Role of Social Media in Product Discovery",
+    "text": "The Role of Social Media in Product Discovery\n📌 Why is this important?\nConsumers are influenced by what they see online. Some platforms work better for certain industries (e.g., TikTok for beauty, LinkedIn for B2B)."
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#digital-ads-purchasing-behavior",
+    "href": "tab-presentation/presentation-index.html#digital-ads-purchasing-behavior",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "Digital Ads & Purchasing Behavior",
+    "text": "Digital Ads & Purchasing Behavior\n📌 Why are ads effective?\nDifferent people respond to different ad formats. Understanding what type of content drives conversions."
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#the-importance-of-brand-trust",
+    "href": "tab-presentation/presentation-index.html#the-importance-of-brand-trust",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "The Importance of Brand Trust",
+    "text": "The Importance of Brand Trust\n📌 Why does trust matter? People are more likely to buy from brands they trust. Reviews, transparency, and social proof influence purchasing."
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#device-preferences-in-online-shopping",
+    "href": "tab-presentation/presentation-index.html#device-preferences-in-online-shopping",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "Device Preferences in Online Shopping",
+    "text": "Device Preferences in Online Shopping\n📌 Why does it matter? Knowing which devices people use helps optimize digital strategies. Mobile-first marketing vs. desktop-focused advertising."
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#conclusion-why-this-survey-matters",
+    "href": "tab-presentation/presentation-index.html#conclusion-why-this-survey-matters",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "Conclusion – Why This Survey Matters",
+    "text": "Conclusion – Why This Survey Matters\n📌 Final Thoughts Helps brands make smarter marketing decisions Identifies consumer preferences and ad effectiveness Provides valuable insights into digital shopping behavior"
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#how-this-helps",
+    "href": "tab-presentation/presentation-index.html#how-this-helps",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "How this helps:",
+    "text": "How this helps:\nBusinesses optimize advertising budgets. Marketers tailor strategies to meet audience expectations. Consumers receive more relevant and engaging content."
+  },
+  {
+    "objectID": "tab-presentation/presentation-index.html#thank-you",
+    "href": "tab-presentation/presentation-index.html#thank-you",
+    "title": "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions",
+    "section": "Thank You",
+    "text": "Thank You\n\nAny questions?\nContact: your.email@example.com sys.date"
   },
   {
     "objectID": "tab-one/tab-one-index.html",
     "href": "tab-one/tab-one-index.html",
-    "title": "Add a title to your Tab index page",
+    "title": "EXPERIENCE",
     "section": "",
-    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-  },
-  {
-    "objectID": "tab-one/tab-one-index.html#nemo-enim-ipsam",
-    "href": "tab-one/tab-one-index.html#nemo-enim-ipsam",
-    "title": "Add a title to your Tab index page",
-    "section": "",
-    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-  },
-  {
-    "objectID": "tab-one/tab-one-index.html#add-an-image",
-    "href": "tab-one/tab-one-index.html#add-an-image",
-    "title": "Add a title to your Tab index page",
-    "section": "Add an image",
-    "text": "Add an image\n\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "text": "I am a motivated and detail-oriented marketing enthusiast with a strong background in management, specializing in entrepreneurship and innovation. Currently pursuing an MSc in Experiential Digital Marketing Communications, I am passionate about combining creativity with strategic thinking to drive impactful marketing campaigns.\nWith hands-on experience in corporate administration, client relationship management, and strategic product placement, I excel at project coordination, regulatory compliance, and enhancing customer engagement. My professional journey has equipped me with strong communication, organizational, and analytical skills, allowing me to navigate complex business environments effectively.\nI am always eager to learn, stay ahead of digital marketing trends, and contribute to innovative marketing strategies. Fluent in Greek and English, with foundational knowledge in Spanish and Italian, I thrive in multicultural settings and collaborative environments.\nI am particularly interested in brand storytelling, experiential marketing, and data-driven decision-making to create meaningful consumer experiences.\nLet’s connect and discuss insights on marketing, entrepreneurship, and career growth! 🚀"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Add a title",
+    "title": "about me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
-  },
-  {
-    "objectID": "index.html#nemo-enim-ipsam",
-    "href": "index.html#nemo-enim-ipsam",
-    "title": "Add a title",
-    "section": "Nemo enim ipsam",
-    "text": "Nemo enim ipsam\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "text": "About Me & Why I’m Conducting This Survey\nHi! My name is Evanthia, and I am currently pursuing an MSc in Experiential Digital Marketing Communications. As someone passionate about understanding digital consumer behavior and marketing trends, I am conducting this survey to explore how people interact with digital ads, discover products online, and make purchasing decisions.\nYour feedback will provide valuable insights into the role of social media, advertising, and brand trust in shaping consumer choices. The results will help analyze which marketing strategies are the most effective and how brands can enhance their online presence.\nYour time and honest responses are greatly appreciated—thank you for participating! 😊\n{width=“100%” style=“border-radius: 8px;”}"
   },
   {
     "objectID": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",

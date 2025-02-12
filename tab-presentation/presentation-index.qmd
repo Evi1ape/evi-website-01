@@ -1,17 +1,72 @@
 ---
-title: "Examples of presentations"
+title: "Exploring the Impact of Digital Ads and Social Media on Purchasing Decisions"
+author: "Evanthia Apeitou"
+format:
+  revealjs:
+    theme: simple # Keeps a clean base style
+    css: custom.css # Ensures your custom styles are applied
+    transition: fade
+    slide-number: true
+    toc: true
+    highlight-style: github
 ---
 
-Here we can add links to presentations.
 
-For now you can access the presentation by adjusting the URL below with your details
+## Introduction – Why This Survey?
 
-https://YOUR-GITHUB-ACCOUNT.github.io/NAME-OF-YOUR-GIT-REPO/tab-presentation/presentation1/presentation-example.html
+📌 Understanding digital consumer behavior
 
-Simply change my capitalized text for your: 
-i) your github username   
-ii) the name of your github repo
-then copy the URL and paste it to visit the webpage. 
+The way people discover and purchase products has evolved.
+Social media and digital ads play a crucial role in shaping decisions.
+This survey helps analyze trends to improve marketing strategies.
 
-The adjusted URL above should take you to an example of a simple Quarto presentation.
+
+
+## The Role of Social Media in Product Discovery
+
+📌 Why is this important?
+
+Consumers are influenced by what they see online.
+Some platforms work better for certain industries (e.g., TikTok for beauty, LinkedIn for B2B).
+
+
+
+## Digital Ads & Purchasing Behavior
+
+📌 Why are ads effective?
+
+Different people respond to different ad formats.
+Understanding what type of content drives conversions.
+
+
+## The Importance of Brand Trust
+📌 Why does trust matter?
+People are more likely to buy from brands they trust.
+Reviews, transparency, and social proof influence purchasing.
+
+
+## Device Preferences in Online Shopping
+📌 Why does it matter?
+Knowing which devices people use helps optimize digital strategies.
+Mobile-first marketing vs. desktop-focused advertising.
+
+
+## Conclusion – Why This Survey Matters
+📌 Final Thoughts
+Helps brands make smarter marketing decisions
+Identifies consumer preferences and ad effectiveness
+Provides valuable insights into digital shopping behavior
+
+## How this helps:
+Businesses optimize advertising budgets.
+Marketers tailor strategies to meet audience expectations.
+Consumers receive more relevant and engaging content.
+
+## Thank You
+
+- Any questions?
+- Contact: your.email@example.com
+sys.date
+
+
 
