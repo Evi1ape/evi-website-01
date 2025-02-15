@@ -1,5 +1,5 @@
 ---
-title: "about me"
+title: "About me"
 ---
 
 About Me & Why I’m Conducting This Survey
