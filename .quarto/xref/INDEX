@@ -25,5 +25,11 @@
   },
   "tab-iframe/iframe-index.qmd": {
     "iframe-index.html": "bf78c40e"
+  },
+  "graphs/graph-index.qmd": {
+    "graph-index.html": "54e913e7"
+  },
+  "Results/RESULTS.qmd": {
+    "RESULTS.html": "491f6ebf"
   }
 }

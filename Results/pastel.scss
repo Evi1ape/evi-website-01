@@ -1,0 +1,35 @@
+/* Background color for slides */
+.reveal {
+  background: #D8BFD8; /* Pastel Purple */
+  color: #4B0082; /* Dark Purple Text */
+}
+
+/* Text styling */
+.reveal h1, .reveal h2, .reveal h3 {
+  color: #4B0082; /* Dark Purple */
+  font-weight: bold;
+}
+
+/* Links */
+.reveal a {
+  color: #6A0DAD; /* Deep Purple for links */
+}
+
+/* Custom styling for bullet points */
+.reveal ul {
+  color: #4B0082;
+  font-size: 1.2em;
+}
+
+/* Highlight color for code blocks */
+.reveal pre {
+  background: #E6E6FA; /* Lavender Background */
+  color: #4B0082;
+  border-radius: 8px;
+}
+
+/* Change button and active slide highlights */
+.reveal .controls,
+.reveal .progress {
+  background-color: #6A0DAD;
+}

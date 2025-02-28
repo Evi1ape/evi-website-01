@@ -15,6 +15,11 @@ website:
         text: presentation      
       - href: tab-iframe/iframe-index.qmd
         text: iFrame example
+      - href: graphs/graph-index.qmd
+        text: graphs
+      - href: Results/RESULTS.qmd
+        text: results
+        
     logo: images/lips.jpg 
 
 format:
