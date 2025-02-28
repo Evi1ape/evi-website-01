@@ -1,0 +1,11 @@
+---
+title: "VIZUALIZATION OF THE RESULTS"
+---
+
+![Alt text](output.png) 
+
+![Alt text](ena.png) 
+![Alt text](dio.png) 
+![Alt text](tesera.png) 
+![Alt text](tria.png)   
+![Alt text](pente.png) 
