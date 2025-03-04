@@ -14,11 +14,11 @@ website:
       - href: tab-presentation/presentation-index.qmd
         text: presentation      
       - href: tab-iframe/iframe-index.qmd
-        text: iFrame example
+        text: Survey
       - href: graphs/graph-index.qmd
-        text: graphs
+        text: Graphs
       - href: Results/RESULTS.qmd
-        text: results
+        text: Results
         
     logo: images/lips.jpg 
 

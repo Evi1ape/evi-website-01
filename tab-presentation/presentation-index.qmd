@@ -20,6 +20,7 @@ The way people discover and purchase products has evolved.
 Social media and digital ads play a crucial role in shaping decisions.
 This survey helps analyze trends to improve marketing strategies.
 
+![Alt text](surv.jpg) 
 
 
 ## The Role of Social Media in Product Discovery
@@ -66,7 +67,7 @@ Consumers receive more relevant and engaging content.
 
 - Any questions?
 - Contact: your.email@example.com
-sys.date
 
+![Alt text](pink.jpg) 
 
 

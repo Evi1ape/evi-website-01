@@ -3,8 +3,8 @@ title: "Survey Realization & Key Insights"
 author: "Consumer Behavior & Digital Advertising Influence (Based on 500 Respondents)"
 format:
   revealjs:
-    theme: solarized 
-    css: custom.css # Custom styling to enhance the pastel purple effect
+    theme: beige 
+    css: custom.css 
     transition: fade
     slide-number: true
     toc: true
@@ -12,58 +12,25 @@ format:
 ---
 
 
-## Age Group Distribution
-
-The majority of respondents fall into the 25-34 age group, followed by 18-24.
-
-Older age groups are less represented in this sample.
-
-## Social Media for Product Discovery
-
-Instagram and TikTok are the most preferred platforms for discovering products.
-LinkedIn and Facebook have a significant share but are less dominant.
-Twitter and other platforms have minimal impact.
-
-## Purchase Frequency from Online Ads
-
-"Sometimes" is the most common response, indicating that online ads have a moderate impact.
-A smaller but notable percentage of people purchase products "often" or "very often" due to ads.
-Some consumers rarely or never buy from online ads.
-
-## Importance of Brand Trust in Purchasing
-
-Brand trust is crucial, with most respondents rating it 4 or 5 (important or very important).
-Very few respondents rated trust as not important.
-
-## Preferred Device for Online Shopping
-
-Mobile phones dominate online shopping.
-Laptops and desktops are used by a fair share of consumers.
-Tablets and other devices have a much lower preference.
-
-
-## Most Influential Digital Ad Types
-
-Video ads and social media-sponsored posts are the most effective ad formats.
-
-Search engine ads and influencer promotions also perform well.
-
-Email marketing is the least influential in driving purchases.
-
-## FINAL CONCLUSION
+## FINAL CONCLUSION...
 📌 Digital advertising works, but trust and platform choice are critical.
 Brands targeting millennials and Gen Z should focus on Instagram, TikTok, and video-based advertising while ensuring credibility to drive conversions.
 
 📌 Mobile-first strategies are essential.
 Since most consumers shop via mobile, businesses must optimize mobile-friendly websites, seamless checkout processes, and mobile-targeted advertising.
 
-## AND..
+## FINAL CONCLUSION 
 
 📌 Brand trust is the key to conversion.
 While digital ads can attract attention, consumers will only purchase if they trust the brand, so companies should invest in authentic storytelling, customer reviews, and transparency.
 
 📌 Video and influencer marketing dominate.
 To maximize ad effectiveness, brands should prioritize short-form video content, sponsored social posts, and influencer collaborations over traditional display ads or email campaigns.
+
+## STAY TUNED FOR MORE SURVEYS!!
+
+![Alt text](bye.jpg) 
+
 
 
 
